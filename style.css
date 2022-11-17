@@ -46,7 +46,7 @@ h1 {
   text-align: center;
 }
 nav ul img {
-  margin-right: 550px;
+  margin-right: 600px;
   width: 130px;
 }
 .logo {
@@ -64,4 +64,17 @@ nav ul img {
   display: flex;
   justify-content: space-around;
   text-align: center;
+}
+.img15 {
+  float: left;
+  align-items: ;
+}
+.h15 {
+  font-weight: 300;
+}
+.p15 {
+  text-align: center;
+}
+.p20 {
+  font-size: 23px;
 }
