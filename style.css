@@ -42,12 +42,12 @@ header {
   justify-content: center;
   align-items: center;
 }
-h1 {
+.h5 { 
   text-align: center;
 }
-nav ul img {
-  margin-right: 600px;
-  width: 130px;
+nav ul a img {
+  display: flex;
+  width: 100px;
 }
 .logo {
   display: flex;
@@ -70,14 +70,26 @@ nav ul img {
   align-items: ;
 }
 .h15 {
-  font-weight: 300;
+  font-weight: 600;
+  color: #fb6f33;
+  
+  margin-left: 65px;
+  margin-right: 65px;
 }
 .p15 {
-  text-align: center;
+  font-size: 18px;
+
+  margin-left: 50px;
+  margin-right: 50px;
 }
 .p20 {
-  font-size: 23px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.p30 {
+  margin-left: 75px;
+  margin-right: 75px;
 }
 .body2 {
-  background-color: blanchedalmond;
+  background-color: white;
 }
