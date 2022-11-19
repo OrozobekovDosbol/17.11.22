@@ -35,8 +35,8 @@ header {
   display: flex;
   color: white;
   text-align: center;
-  background-image: url(./fon.jpg);
-  height: 250px;
+  background-image: url(./almurut2.png);
+  height: 500px;
   background-size: cover;
   flex-direction: column;
   justify-content: center;
@@ -77,4 +77,7 @@ nav ul img {
 }
 .p20 {
   font-size: 23px;
+}
+.body2 {
+  background-color: blanchedalmond;
 }
